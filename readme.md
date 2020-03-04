@@ -5,4 +5,4 @@
 
 ## Software
 
-If you want to change the program u need to use Arduino ide and include "OneWire.h", "DallasTemperature.h"
+If you want to change the program you need to use Arduino ide and include "OneWire.h", "DallasTemperature.h"
